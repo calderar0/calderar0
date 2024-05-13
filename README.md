@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**calderar0/calderar0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Me chamo Felipe Calderaro, sejam bem vindos ao meu perfil!
 
-Here are some ideas to get you started:
+Estou cursando Bacharel em Ciência e Tecnologia pela Universidade Federal de São Paulo (estudando com ênfase e caminhando para a área de Ciencia da Computação). Pretendo seguir na área de desenvolvimento Full Stack. Gosto muito de trabalhar em equipe, aprender novas tecnologias e resolver desafios!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conecte-se comigo
+[![E-mail](https://img.shields.io/badge/Gmail-000?style=flat&logo=gmail&logoColor=red)](mailto:felipecalderaro28@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/felipe-calderaro/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=github&logoColor=white)](https://github.com/calderar0)
+
+## Habilidades
+![HTML5](https://img.shields.io/badge/HTML-000?style=flat&logo=html5&logoColor=orange)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=yellow)
+[![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git&logoColor=red)](https://git-scm.com/doc)
+
+
+
