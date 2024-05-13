@@ -1,6 +1,6 @@
-### Hi there 👋
 
-# Olá! Me chamo Felipe Calderaro, sejam bem vindos ao meu perfil!
+# Olá! Me chamo Felipe Calderaro
+## Sejam bem vindos ao meu perfil!
 
 Estou cursando Bacharel em Ciência e Tecnologia pela Universidade Federal de São Paulo (estudando com ênfase e caminhando para a área de Ciencia da Computação). Pretendo seguir na área de desenvolvimento Full Stack. Gosto muito de trabalhar em equipe, aprender novas tecnologias e resolver desafios!
 
